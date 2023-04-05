@@ -7,8 +7,8 @@ var cloud, cloudImage;
 var obstaculo1, obstaculo2, obstaculo3, obstaculo4, obstaculo5, obstaculo6;
 
 //definir variável gameOver, gameOverImg, restart, restartImg
-
-
+var gameOver, gameOverImg;
+var restart, restartImg;
 
 
 
